@@ -1,0 +1,7 @@
+{
+  "name": "akhalz_3rd",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
